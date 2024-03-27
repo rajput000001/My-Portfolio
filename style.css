@@ -1,0 +1,77 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+    h2{
+    color: rgb(41, 40, 40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1rem;
+    
+}
+h4{
+    color: rgb(126, 126, 118);
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 12rem;
+    margin-left: 3.3rem;
+}
+h1{
+    color:  rgb(41, 40, 40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 3rem;
+    font-size: 70px;
+    margin-top: -1rem;
+}
+.yellow{
+    margin-left: 3rem;
+    background-color:hsl(64, 88%, 44%);
+    border-style: none;
+    height: 50px;
+    width: 160px;
+    color: rgb(241, 238, 238);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.white{
+  margin: 0.5rem;
+    background-color:rgb(41, 39, 39) ;
+    height: 50px;
+    color: azure;
+    font-weight: bold;
+    width: 90px;
+    
+    border-style: none !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.file{
+  
+    width: 750px;
+    height: 840px;
+   
+}
+.right-section{
+    margin-top: -54rem;
+    margin-left: 47rem;
+    width: 770px;
+    height: 865px;
+    background-color: hsl(64, 92%, 52%);
+}
+.profile{
+  margin-left: 5rem;
+  margin-top: 13rem;
+  height: 658px;
+}
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-track{
+    background: #d1d1d1;
+
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(yellow,black);
+    border-radius: 10px;
+}
